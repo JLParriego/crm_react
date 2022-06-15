@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Elena ",
+      "empresa": "qwe",
+      "email": "jl.parriego@outlook.com",
+      "telefono": "630725461",
+      "notas": "dsdsd",
+      "id": 3
+    },
+    {
+      "nombre": "Elena r",
+      "empresa": "qwe",
+      "email": "jl.parriego@outlook.com",
+      "telefono": "630725461",
+      "notas": "dsdsd",
+      "id": 4
+    },
+    {
+      "nombre": "PAULA p",
+      "empresa": "apple",
+      "email": "jl.parriego@outlook.com",
+      "telefono": "630725461",
+      "notas": "qqq",
+      "id": 5
+    }
+  ]
+}
